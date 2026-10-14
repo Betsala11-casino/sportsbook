@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /play-and-win/
 
-Sitemap: https://SITE_URL/sitemap.xml
+Sitemap: https://betsala11-casino.github.io/sportsbook/sitemap.xml
